@@ -1,0 +1,2 @@
+com/RdTools/HelloWorld/Application.java
+ com.RdTools.HelloWorld.Application
