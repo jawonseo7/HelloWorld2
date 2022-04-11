@@ -1,6 +1,5 @@
 package com.RdTools.HelloWorld.web;
 
-
 import com.RdTools.HelloWorld.service.PostsService;
 import com.RdTools.HelloWorld.web.dto.PostsResponseDto;
 import com.RdTools.HelloWorld.web.dto.PostsSaveRequestDto;
